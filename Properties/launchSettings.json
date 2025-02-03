@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HeadlessPreloader": {
+      "commandName": "Project",
+      "commandLineArgs": "--run"
+    }
+  }
+}
