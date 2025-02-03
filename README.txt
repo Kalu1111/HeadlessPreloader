@@ -51,7 +51,7 @@ Feel free to use this program in your commercial projects without any restrictio
 
 
 ## Commands
-You have these 5 commands available to you:
+You have these 7 commands available to you:
 --configFile     //allows you to use config files other than the default one (e.g. --configFile C://MyAmazingFolder/FullOfNiceConfigFiles/NiceConfFile.json). If your path has spaces you'll want to use '"'s
 --run            //starts the process of loading the webpages you've defined in the config file
 --silent         //disables printing messages to the console
